@@ -141,17 +141,9 @@
             android:theme="@style/CityPicker.NoActionBar"
             android:windowSoftInputMode="stateHidden|adjustPan"/>
 
-        <!-- 百度地图 yY4r7jj32xmnxl5UgIyhzIYzZK3WagI9SDK -->
-        <!-- 百度地图 vYXLqfXw43jfcP5ajTysZ3y98UmLg6Bl -->
-        <!-- 百度地图 T88EUGFjXTmzEasDxGF2Ah1gOXzGHtma 朱 -->
-        <!-- gIgFhLnOs3smXGkE5s2g3MgMR29BmoB樊 -->
-        <!--明 uQBqowxnAmCh6ADg50YjYtKlTylA2oql-->
-        <!-- 百度地图 T88EUGFjXTmzEasDxGF2Ah1gOXzGHtma -->
-        <!-- 7gIgFhLnOs3smXGkE5s2g3MgMR29BmoB樊 -->
-        <!-- 百度地图 ICwatEmqEIyX1OvGu1bE2rDKmnSxGkPW 朱2 -->
 
         <meta-data
-            android:name="com.baidu.lbsapi.API_KEY"
+            android:name="com.baidu.lbsapi.API_KEY" 
             android:value="7gIgFhLnOs3smXGkE5s2g3MgMR29BmoB" />
 
         <service
